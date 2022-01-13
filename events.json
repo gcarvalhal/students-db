@@ -1,6 +1,0 @@
-[
-    {title:"feriado2016_04_19", start: new Date(2016,3,19), editable: true},
-    {title:"feriado2016_04_25", start: new Date(2016,3,25), editable: true},
-    {title:"espectrometria x", start: new Date(2016,3,26), end: new Date(2016, 3, 29)},
-    {title:"P2016_10_15", start: new Date(2016,3,25), editable: true},
-    ]
